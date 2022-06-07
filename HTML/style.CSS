@@ -1,0 +1,64 @@
+color: green;
+}
+
+#container {
+background-color: green;
+width: 1500px;
+margin-left: auto;
+margin-right: auto;
+
+}
+ 
+#header {
+background-color: #66CCFF;
+color: green;
+text-align: center;
+
+}
+#header-image {
+background-color: #66CCFF;
+text-align: left;
+}
+
+#info {
+color: blue;
+text-align: center;
+}
+
+#text {
+color: blue;
+text-align: right;
+}
+#imput {
+text-align: center;
+}
+#content {
+padding: 10px;
+
+}
+
+#navigation {
+width: 300px;
+float: left;
+text-align: center;
+}
+
+#nav ul {
+list
+}
+
+#nav selected {
+font-weight: bold;
+
+}
+
+#main {
+width: 0px;
+float: right;
+
+}
+
+#footer{
+clear: both;
+
+}

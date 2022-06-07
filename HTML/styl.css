@@ -1,0 +1,14 @@
+#header {
+background-color: #66CCFF;
+color: green;
+text-align: center;
+}
+#bubble {
+text-align: right;
+ padding: 14px 16px;
+}
+#text {
+color: blue;
+text-align: center;
+ padding: 14px 16px;
+}
